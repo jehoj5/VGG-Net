@@ -1,31 +1,23 @@
-# VGGNet CNN Model Implementation with PyTorch
-
+# PyTorch - VGGNet CNN Model Training 
 ## Overview
 
-This project provides an easy-to-understand implementation of the VGGNet Convolutional Neural Network (CNN) model using PyTorch. The model is implemented in a Google Colab notebook, making it convenient for users to run and experiment with the code in a cloud-based environment.
+This project provides a simple and beginner-friendly implementation of the VGGNet Convolutional Neural Network (CNN) using PyTorch. The model is developed in Google Colab, making it easy to run, learn, and experiment with image classification tasks.
 
-## VGGNet
+## Features
 
-VGGNet is a deep convolutional neural network architecture that was proposed by the Visual Graphics Group (VGG) at the University of Oxford. It gained popularity for its simplicity and achieved strong performance on various image classification tasks.
+* VGGNet architecture implemented with PyTorch
+* Well-structured and easy-to-understand code
+* Google Colab compatible
+* Suitable for learning deep learning and CNN concepts
 
-## Implementation
+## Requirements
 
-The implementation in this project is designed to be beginner-friendly and easily understandable. The code is organized into logical sections with comments to explain each step of the process. The architecture of VGGNet is defined using PyTorch's neural network module, making it straightforward for users to grasp the structure of the model.
+* PyTorch
+* Google Colab / Jupyter Notebook
 
-## Getting Started
+## Usage
 
-To get started with the project, follow these steps:
-
-1. Open the Google Colab notebook (`vggnet_implementation.ipynb`) in your Google Drive.
-
-2. Run each cell in the notebook sequentially to understand the implementation and observe the results.
-
-## Dependencies
-
-The project has the following dependencies:
-
-- PyTorch: The deep learning framework used for implementing and training the VGGNet model.
-
+Open the notebook and run the cells sequentially to explore the VGGNet architecture, training process, and results.
 Install the dependencies using the following command in a Colab cell:
 
 ```python
